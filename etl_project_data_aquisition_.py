@@ -48,7 +48,7 @@ from serpapi import GoogleSearch
 params={
     "engine":"google_shopping",
     "q":"Smart phones ",
-    "api_key":"3340e2d65f150244f55c0afd6cb5f22ce454272535f06a2c4430426ecd3c7cee"
+    "api_key":"#put your api key here"
 }
 search=GoogleSearch(params)
 
