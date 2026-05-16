@@ -6,7 +6,7 @@ An end-to-end Data Engineering and Machine Learning project focused on automated
 
 ## 🎥 Project Demo (Video)
 See the full workflow and interface in action:  
-👉 **[Click Here to Watch the Project Demo Video](https://drive.google.com/open?id=1A0HIHfEJy_fE8SMa6d5W8vYOfglf2jbf&usp=drive_fs)** *(Replace this with your Google Drive or YouTube video link)*
+👉 **[Click Here to Watch the Project Demo Video](https://drive.google.com/open?id=1A0HIHfEJy_fE8SMa6d5W8vYOfglf2jbf&usp=drive_fs)** 
 
 ---
 
